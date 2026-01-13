@@ -1,11 +1,11 @@
 import { Button } from "@/components/ui/button"
 import { Code2, Sparkles } from "lucide-react"
+import Background from "./ui/background"
 
 export function Hero() {
   return (
     <section className="relative min-h-screen flex items-center justify-center overflow-hidden px-6">
-      {/* Grid background */}
-      <div className="absolute inset-0 bg-[linear-gradient(to_right,#1a1a2e_1px,transparent_1px),linear-gradient(to_bottom,#1a1a2e_1px,transparent_1px)] bg-[size:4rem_4rem] [mask-image:radial-gradient(ellipse_80%_50%_at_50%_50%,#000_70%,transparent_110%)]" />
+      <Background />
 
       <div className="relative z-10 max-w-6xl mx-auto text-center">
         {/* Badge */}

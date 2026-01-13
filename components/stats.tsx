@@ -1,9 +1,9 @@
 export function Stats() {
   const stats = [
-    { value: "150+", label: "Projetos Concluídos" },
-    { value: "98%", label: "Satisfação dos Clientes" },
-    { value: "50+", label: "Clientes Ativos" },
-    { value: "8x", label: "Mais Rápido no Deploy" },
+    { value: "100%", label: "Atenção ao projeto" },
+    { value: "99%", label: "Satisfação dos Clientes" },
+    { value: "1:1", label: "Contato direto com o desenvolvedor" },
+    { value: "On-time", label: "Entregas no prazo" },
   ]
 
   return (
