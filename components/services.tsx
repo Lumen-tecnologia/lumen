@@ -1,5 +1,5 @@
 import { Card, CardContent } from "@/components/ui/card"
-import { Code2, Smartphone, Cloud, Zap,  Shield, Rocket } from "lucide-react"
+import { Code2, Smartphone, Cloud, Zap, Database, Shield } from "lucide-react"
 
 const services = [
   {
@@ -18,9 +18,9 @@ const services = [
     description: "Infraestrutura na nuvem otimizada com CI/CD e automação completa.",
   },
   {
-    icon: Rocket,
-    title: "Automações",
-    description: "Automações envolvendo Planilhas e tratamento de dados, garatindo o ganho de performance no dia a dia da empresa.",
+    icon: Database,
+    title: "Arquitetura de Dados",
+    description: "Modelagem e otimização de bancos de dados para alta performance.",
   },
   {
     icon: Zap,

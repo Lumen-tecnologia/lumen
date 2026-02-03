@@ -35,7 +35,7 @@ export function Contact() {
 
   return (
     <section id="contato" className="py-24 px-6 relative">
-      <div className="max-w-7xl mx-auto"> 
+      <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold mb-4 text-balance">
             Entre em <span className="text-primary">Contato</span>
@@ -76,7 +76,7 @@ export function Contact() {
                   <div>
                     <div className="font-semibold mb-1">Telefone</div>
                     <a href="tel:+5511999999999" className="text-muted-foreground hover:text-primary transition-colors">
-                      +55 (61) 99511-2699
+                      +55 (11) 99999-9999
                     </a>
                   </div>
                 </div>
@@ -88,7 +88,7 @@ export function Contact() {
                   <div>
                     <div className="font-semibold mb-1">Localização</div>
                     <p className="text-muted-foreground">
-                      Brasília, DF
+                      São Paulo, SP
                       <br />
                       Brasil
                     </p>

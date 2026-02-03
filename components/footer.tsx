@@ -9,11 +9,11 @@ export function Footer() {
             <div className="w-8 h-8 rounded-lg bg-primary flex items-center justify-center">
               <Code2 className="w-5 h-5 text-primary-foreground" />
             </div>
-            <span className="font-bold text-lg">Lúmen Tecnologia</span>
+            <span className="font-bold text-lg">SoftwareFab</span>
           </div>
 
           <div className="text-center md:text-right text-sm text-muted-foreground">
-            <p>© 2025 Lúmen Tecnologia. Todos os direitos reservados.</p>
+            <p>© 2025 SoftwareFab. Todos os direitos reservados.</p>
             <p className="mt-1">Construindo o futuro da tecnologia</p>
           </div>
         </div>
